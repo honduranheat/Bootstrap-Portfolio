@@ -1,0 +1,74 @@
+ 
+ /* About Section */ 
+
+ .cardAbout {
+    margin: auto 200px auto 100px;
+    clear: left;
+    padding: 0;
+    background-color: #ffffff;
+    overflow: hidden;
+    border: solid 1px;
+ } 
+
+ .bioPic {
+    padding-left: 50px;
+    height: auto;
+    width: 200px;
+    margin: 0;
+    float: left;
+    display: block;
+}
+
+
+/* Contact Section */
+
+ .cardSocial {
+   
+    height: 200px;
+    width: 300px;
+    background-color:#ffffff;
+    position: relative;
+    
+    border: solid 1px;
+ }
+
+ #cardSocial2 {
+     left: 500px;
+ }
+
+ .githubBtn {
+    padding-left: 30px;
+    width: 75px;
+    height: auto
+}
+
+.linkedinBtn {
+    width: 75px;
+    height: auto;
+}
+
+.stackoverflowBtn {
+    width: 75px;
+    height: auto;
+}
+ 
+
+/* Portfolio */
+
+.comingSoon {
+    height: 150px;
+    width: 150px;
+    margin: 10 15 10 15;
+}
+
+.navbar {
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.pFooter {
+    padding-left: 350px;
+    padding-right: auto; 
+}
